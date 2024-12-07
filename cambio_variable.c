@@ -8,7 +8,7 @@ int main(void)
 	int x =10, y;
 	//scanf("%d",&x);
 	printf("Ingresa x: ");
-	scanf("%d",&x);//solo funciona con INT , con uin8_t funciona con error
+	scanf("%d",&x);
 	printf("Ingresa y: ");
 	scanf("%d",&y);
 	cambiar_variables(&x,&y);
