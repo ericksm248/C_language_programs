@@ -1,3 +1,3 @@
-Este repositorio contiene códigos C desarrollados por mí y pequeños fragmentos de código copiados de tutoriales, foros o recursos de aprendizaje recopilados por mi persona. Su objetivo es únicamente educativo y experimental, para probar conceptos y técnicas. No está destinado a usos comerciales ni a la distribución como producto final.
+This repository contains C code developed by me, along with small fragments of code copied from tutorials, forums, or other learning resources compiled by me. The goal is to learn and experiment with concepts and techniques. Some of these codes were used in my projects.
 
-Si algún fragmento infringe los derechos de autor, por favor házmelo saber para tomar medidas correctivas.
+If any fragment infringes copyright, please let me know so I can take corrective action.
