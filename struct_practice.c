@@ -12,7 +12,7 @@ char info[11]="es otro sms";
 
 int main(void)
 {
-	data_struc mi_struc ={4,8,"hola como estas"};
+	data_struc mi_struc ={4,8,"hola mundo"};
 	data_struc struc_2 = {1,100,"sms nuevo"};
 	printf("struct %d\n",mi_struc.data2);
 	printf("struct puntero: %s\n",mi_struc.put);
