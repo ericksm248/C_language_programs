@@ -7,7 +7,7 @@
 uint8_t buffer_circular[BUFFER_TAM];
 uint8_t indice_lectura_buffCircular = 0;
 uint8_t indice_escritura_buffCircular = 0;
-uint8_t counter_buffer_circular = 0;//verificar si tiene datos el buffer, es necesario? SI
+uint8_t counter_buffer_circular = 0;
 
 void push_data(uint8_t data)
 {
