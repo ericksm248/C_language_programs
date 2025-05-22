@@ -34,12 +34,13 @@ int main(void)
 	uint8_t val_array[5]={0,5,0,0,0};
 
 	// take advantage of short-circuit evaluation to optimize program behavior
+	// first, check the flag, then evaluate more complex conditions
 	if(a==3 && strcmp(array_data,"data input")==0)
 		printf("condition passed for short-circuit, second condition was executed\n");
 	else
 		printf("was the second condition executed? if the first condition  was true, the second condition was executed\n");
 	
-	// avoid accessing a null pointer
+	// safe acces to variable, avoid accessing a null pointer
 	if (ptr != NULL && ptr->value == 10) 
 	{
 		printf("valid access\n");
